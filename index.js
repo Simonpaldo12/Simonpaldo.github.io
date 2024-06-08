@@ -12,12 +12,7 @@ const btnLikes2 = document.getElementById("btnLike2")
 const countLikes2 = document.getElementById("countLikes2")
 const btnDislikes2 = document.getElementById("btnDislike2")
 const countDislikes2 = document.getElementById("countDislikes2")
-const btnHaha2 = document.getElementById("btnHaha2")
-const countHaha2 = document.getElementById("countHaha2")
-const btncare2 = document.getElementById("btncare2")
-const countcare2 = document.getElementById("countcare2")
-const btnangry2 = document.getElementById("btnangry2")
-const countangry2 = document.getElementById("countangry2")
+
 
 const submit = document.getElementById("submit")
 const comment = document.getElementById("comment")
